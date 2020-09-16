@@ -1,7 +1,7 @@
 +++
 title = "About Damian"
 date = "2020-09-16"
-image = 'street.jpg'
+image = 'polo-wallpaper.jpg'
 
 +++
 
