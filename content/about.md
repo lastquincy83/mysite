@@ -1,17 +1,17 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Damian"
+date = "2020-09-16"
 image = 'street.jpg'
+
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Damian is the **world’s fastest procrastinator for starting to study**. It is written in The Guinness World Records.
 
-It makes use of a variety of open source projects including:
+He makes use of a variety of open source projects including:
 
-* [https://github.com/russross/blackfriday](https://github.com/russross/blackfriday)
-* [https://github.com/alecthomas/chroma](https://github.com/alecthomas/chroma)
-* [https://github.com/muesli/smartcrop](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/cobra](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/viper](https://github.com/muesli/smartcrop)
+* [https://stackoverflow.com](https://stackoverflow.com)
+* [https://github.com/](https://github.com)
+* [https://gohugo.io/](https://gohugo.io/)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more and contribute on [GitHub](https://github.com/lastquincy83).
+
