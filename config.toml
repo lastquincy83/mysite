@@ -22,7 +22,7 @@ paginate = 6
     tabWidth = 2
 
 # If you want to use disqus, uncomment the line below
-DisqusShortname = "thelazyboi"
+disqusShortname = "thelazyboi"
 
 # ids used below are not valid. Replace with valid ones
 [params]
