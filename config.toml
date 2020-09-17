@@ -1,4 +1,4 @@
-baseurl = "thelazyboi.com/"  # Include trailing slash
+baseurl = "/"  # Include trailing slash
 title = "My Hugo Site"
 theme = "casper3"
 author = "Damian"
