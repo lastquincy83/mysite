@@ -1,9 +1,14 @@
 +++
+author = "Damian Naidoo"
 title = "Goodbye drive"
 date = "2020-09-16"
-image = 'polo-wallpaper.jpg'
-
+feature_image = "/images/polo-wallpaper.jpg"
 +++
 
-Damian was requested to take someone out for a drive, and this is how it went...
+I was requested to take someone out for a drive, and this is how it went...
 
+```
+{{feature_image}}
+```
+
+![""](/images/polo-wallpaper.jpg)
