@@ -1,9 +1,9 @@
 baseurl = "/"  # Include trailing slash
-title = "My Hugo Site"
+title = "Support hands"
 theme = "casper3"
 author = "Damian"
 canonifyurls = true
-paginate = 6
+paginate = 1
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -25,20 +25,20 @@ footnoteReturnLinkContents = "^"
     tabWidth = 2
 
 # If you want to use disqus, uncomment the line below
-disqusShortname = "thelazyboi"
+#disqusShortname = "thelazyboi"
 
 [params]
-  facebook = "https://facebook.com/damian.t.naidoo"
-  twitter = "https://twitter.com/lastquincy83"
-  github = "https://github.com/lastquincy83"
-  description = "Just a demo site for the Casper3 theme ported to Hugo"
-  mainSections = ["post"]
+  #facebook = "https://facebook.com/damian.t.naidoo"
+  #twitter = "https://twitter.com/lastquincy83"
+  #github = "https://github.com/lastquincy83"
+  description = "Supporting hands"
+  mainSections = ["homepage"]
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "how-it-works"
+    name = "How it Works"
+    url = "/how-it-works/"
     weight = 10
   #[[menu.main]]
   #  identifier = "image-credit"
@@ -64,20 +64,20 @@ disqusShortname = "thelazyboi"
 [privacy]
 
   [privacy.vimeo]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.twitter]
-    disabled = false
+    disabled = true
     enableDNT = true
     simple = true
 
   [privacy.instagram]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.youtube]
-    disabled = false
+    disabled = true
     privacyEnhanced = true
 
 [services]
